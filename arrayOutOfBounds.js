@@ -1,3 +1,4 @@
+/* No out-of-bounds protection */
 function arrayOutOfBounds (array, index) {
     return array[index];
 }
