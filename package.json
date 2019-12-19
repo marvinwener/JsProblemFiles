@@ -1,0 +1,12 @@
+{
+  "name": "testviolations",
+  "version": "0.0.1",
+  "description": "Violations that should be",
+  "author": "TIOBE",
+  "license": "N.A.",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-plugin-react": "^7.16.0"
+  }
+}
